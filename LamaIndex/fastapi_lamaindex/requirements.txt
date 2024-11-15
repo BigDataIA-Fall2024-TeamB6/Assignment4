@@ -1,0 +1,5 @@
+
+requests
+fastapi
+snowflake-connector-python
+python-dotenv
